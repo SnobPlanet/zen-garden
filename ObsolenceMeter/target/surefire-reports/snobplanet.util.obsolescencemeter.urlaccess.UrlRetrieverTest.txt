@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: snobplanet.util.obsolescencemeter.urlaccess.UrlRetrieverTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.853 sec
